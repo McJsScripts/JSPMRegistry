@@ -1,5 +1,4 @@
 import JsScripts from "$de/blazemcworld/jsscripts/JsScripts";
-import String from "$java/lang/String";
 import Text from "$net/minecraft/text/Text";
 import Formatting from "$net/minecraft/util/Formatting";
 
@@ -21,6 +20,6 @@ export function print(msg, color = "gray") {
         if (!color) {
             color = Formatting.byName("gray");
         }
-        JsScripts.displayChat(Text.literal(String.valueOf(msg)).formatted(color));
+        JsScripts.displayChat(Text.literal(msg + "").formatted(color));
     }
 }
