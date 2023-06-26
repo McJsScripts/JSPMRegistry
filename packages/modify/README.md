@@ -1,4 +1,4 @@
-# cmd-lib
+# modify
 
 A package for easier usage of the Injector class.
 
