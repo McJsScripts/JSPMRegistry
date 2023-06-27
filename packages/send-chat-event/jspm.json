@@ -1,10 +1,12 @@
 {
-    "author": {
-        "name": "BlazeMCworld",
-        "uuid": "184c84ee-c445-4772-8d19-9e409031f0db"
-    },
-    "version": {
-        "pkg": "1.0.0",
-        "minecraft": "1.20.1"
-    }
+	"author": {
+		"name": "BlazeMCworld",
+		"uuid": "184c84ee-c445-4772-8d19-9e409031f0db"
+	},
+	"version": {
+		"pkg": "1.0.1",
+		"minecraft": "1.20.1"
+	},
+	"displayName": "Send Chat Message Event",
+	"description": "Detect whenver the user send a message into the chat."
 }

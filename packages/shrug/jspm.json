@@ -1,10 +1,12 @@
 {
-    "author": {
-        "name": "sbot50",
-        "uuid": "34e4b5c3-e3bb-4f39-b6a7-8a1abeb0cc62"
-    },
-    "version": {
-        "pkg": "1.0.1",
-        "minecraft": "1.20.1"
-    }
+	"author": {
+		"name": "sbot50",
+		"uuid": "34e4b5c3-e3bb-4f39-b6a7-8a1abeb0cc62"
+	},
+	"version": {
+		"pkg": "1.0.2",
+		"minecraft": "1.20.1"
+	},
+	"displayName": "Shrug",
+	"description": "Adds /shrug (message)."
 }

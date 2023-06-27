@@ -1,10 +1,12 @@
 {
-    "author": {
-        "name": "BlazeMCworld",
-        "uuid": "184c84ee-c445-4772-8d19-9e409031f0db"
-    },
-    "version": {
-        "pkg": "1.0.1",
-        "minecraft": "1.20.1"
-    }
+	"author": {
+		"name": "BlazeMCworld",
+		"uuid": "184c84ee-c445-4772-8d19-9e409031f0db"
+	},
+	"version": {
+		"pkg": "1.0.2",
+		"minecraft": "1.20.1"
+	},
+	"displayName": "Modify",
+	"description": "A package for easier usage of the Injector class."
 }
