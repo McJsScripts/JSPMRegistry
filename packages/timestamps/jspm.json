@@ -4,9 +4,12 @@
 		"uuid": "34e4b5c3-e3bb-4f39-b6a7-8a1abeb0cc62"
 	},
 	"version": {
-		"pkg": "1.0.2",
+		"pkg": "1.0.3",
 		"minecraft": "1.20.1"
 	},
 	"displayName": "Timestamps",
-	"description": "Just adds timestamps to every msg."
+	"description": "Just adds timestamps to every msg.",
+	"tags": [
+		"Chat"
+	]
 }

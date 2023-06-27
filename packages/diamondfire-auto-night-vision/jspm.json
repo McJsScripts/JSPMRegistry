@@ -8,5 +8,9 @@
 		"minecraft": "1.20.1"
 	},
 	"displayName": "Auto Night Vision (DiamondFire)",
-	"description": "Automatically does /nightvis when entering build or dev mode"
+	"description": "Automatically does /nightvis when entering build or dev mode",
+	"tags": [
+		"DiamondFire",
+		"Automation"
+	]
 }
